@@ -1,0 +1,6 @@
+This project uses open-source code from the following GitHub repository:
+
+https://github.com/dataabc/weiboSpider
+
+The original code is used for data crawling and preprocessing.
+No core algorithm modifications were made.
